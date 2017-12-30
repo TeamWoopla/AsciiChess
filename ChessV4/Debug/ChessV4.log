@@ -1,0 +1,6 @@
+﻿  Source.cpp
+f:\c & c++\chess\chessv4\chessv4\source.cpp(278): warning C4101: 'i1': unreferenced local variable
+f:\c & c++\chess\chessv4\chessv4\source.cpp(291): warning C4101: 'i1': unreferenced local variable
+f:\c & c++\chess\chessv4\chessv4\source.cpp(346): warning C4101: 'i1': unreferenced local variable
+  ChessV4.vcxproj -> F:\C & C++\Chess\ChessV4\Debug\ChessV4.exe
+  ChessV4.vcxproj -> F:\C & C++\Chess\ChessV4\Debug\ChessV4.pdb (Partial PDB)
